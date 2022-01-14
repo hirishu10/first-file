@@ -1,5 +1,11 @@
 # GIT  using in Terminal…..
 
+- [Process Below](#process-below) 
+- [Wrote By](#wrote-by)
+
+
+
+
 ### Process Below:
 
 1. git --version
@@ -24,7 +30,9 @@
 
 
 
-# Wrote By - 
+# Wrote By 
+
+- 
 - Rishu Chowdhary
 - hirishu10
 - hi.10rishu@gmail.com
